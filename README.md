@@ -6,11 +6,9 @@
 
 ### What I have created
 - Code redeem plugin » ...
-- Custom bedrock forms plugin » ...
 - PlotSquared gui addon » ...
 
 ### My languages
-- IntelliJ IDEA
 - Java (68%)
 - SQL (24%)
 - Kotlin (5%)
